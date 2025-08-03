@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben İkbal Şanlı</h1>
+<h1 align="center">Merhaba 👋, ben İkbal</h1>
 <h3 align="center">3rd Year Computer Engineering Student | Embedded Systems & Software Developer</h3>
 
 ---
