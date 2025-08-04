@@ -23,8 +23,7 @@
 ### 🚀 Projelerim | My Projects
 
 - 🔥 [**WordSpark**](https://github.com/ikbalSanli/wordspark) – İngilizce kelime kartları ve testleri içeren Flutter uygulaması  
-- 🎥 **Qt Kamera UI** – Kamera + sensör + joystick verisini Qt'de görselleştirme  
-- 💻 [**Web-dev-projects**](https://github.com/ikbalSanli/web-dev-projects) – Staj projeleri ve frontend çalışmalarım
+- 💻 [**EngineHub**](https://github.com/ikbalSanli/EngineHub) – Staj projeleri ve frontend çalışmalarım
 
 ---
 
