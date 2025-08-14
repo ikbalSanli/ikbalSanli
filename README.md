@@ -36,16 +36,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📈 GitHub İstatistikleri | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikbalSanli&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikbalSanli&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
 ---
 
 ### 🏆 Rozetler | Trophies
