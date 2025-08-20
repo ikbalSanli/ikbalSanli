@@ -1,26 +1,22 @@
-<h1 align="center">Merhaba , ben İkbal | Hi!</h1>
+<h1 align="center">Hi!</h1>
 <h3 align="center">4rd Year Computer Engineering Student | Embedded Systems & Software Developer</h3>
 
 ---
 
-###  Hakkımda | About Me
+###   About Me
 
-- 🎓 **Konya Teknik Üniversitesi** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-  I’m a 4rd-year Computer Engineering student at **Konya Technical University**.
+- 🎓 **I’m a 4rd-year Computer Engineering student at **Konya Technical University**.
 
-- ⚙️ **Gömülü sistemler**, Qt arayüzleri, UART/TCP/IP haberleşmeleri ve C++ programlama konusunda deneyimliyim.  
-  Experienced in **embedded systems**, Qt interfaces, UART/SPI/TCP/IP communication, and C++ programming.
+- ⚙️ **Experienced in **embedded systems**, Qt interfaces, UART/SPI/TCP/IP communication, and C++ programming.
 
-- 📱 Flutter ve Firebase ile kullanıcı dostu, ölçeklenebilir ve gerçek zamanlı özelliklere sahip mobil uygulamalar geliştiriyorum.  
-  Building scalable, user-friendly, and real-time mobile applications using **Flutter & Firebase**.
+- 📱Building scalable, user-friendly, and real-time mobile applications using **Flutter & Firebase**.
 
 
-- 🌐 Web geliştirme üzerine deneyim sahibiyim (HTML, CSS, JS, Node.js).  
-  I also have experience in **web development** (HTML, CSS, JS, Node.js).
+- 🌐I also have experience in **web development** (HTML, CSS, JS, Node.js).
 
 ---
 
-### 🚀 Projelerim | My Projects
+### 🚀My Projects
 
 -  [**WordSpark**](https://github.com/ikbalSanli/wordspark) – İngilizce kelime kartları ve testleri içeren Flutter uygulaması  
 -  [**EnginHub**](https://github.com/ikbalSanli/EngineHub) – EnginHub projesi
@@ -28,7 +24,7 @@
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler | Technologies I Use
+### 🛠️ Technologies I Use
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -38,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-### 🏆 Rozetler | Trophies
+### 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ikbalSanli&theme=radical&no-bg=true&margin-w=10"/>
@@ -46,7 +42,7 @@
 
 ---
 
-### 📫 Bana Ulaşın | Contact Me
+### 📫 Contact Me
 
 - 📧 **Email**: sanliikbal42@gmail.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/ikbalsanli](https://linkedin.com/in/ikbalsanli)  
