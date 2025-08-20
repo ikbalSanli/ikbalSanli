@@ -1,4 +1,4 @@
-<h1 align="center">Hi!</h1>
+<h1 align="center">Hi i am İkbal!</h1>
 <h3 align="center">4rd Year Computer Engineering Student | Embedded Systems & Software Developer</h3>
 
 ---
