@@ -18,9 +18,9 @@
 
 ### 🚀My Projects
 
--  [**WordSpark**](https://github.com/ikbalSanli/wordspark) – İngilizce kelime kartları ve testleri içeren Flutter uygulaması  
--  [**EnginHub**](https://github.com/ikbalSanli/EngineHub) – EnginHub projesi
--  [**QtSoapTcp_InternshipProject**](https://github.com/ikbalSanli/QtSoapTcp_InternshipProject) – Qt projem  
+-  [**WordSpark**](https://github.com/ikbalSanli/wordspark) –   
+-  [**EnginHub**](https://github.com/ikbalSanli/EngineHub)
+-  [**QtSoapTcp_InternshipProject**](https://github.com/ikbalSanli/QtSoapTcp_InternshipProject)   
 
 ---
 
