@@ -18,7 +18,7 @@
 
 ### 🚀My Projects
 
--  [**WordSpark**](https://github.com/ikbalSanli/wordspark) –   
+-  [**WordSpark**](https://github.com/ikbalSanli/wordspark)    
 -  [**EnginHub**](https://github.com/ikbalSanli/EngineHub)
 -  [**QtSoapTcp_InternshipProject**](https://github.com/ikbalSanli/QtSoapTcp_InternshipProject)   
 
